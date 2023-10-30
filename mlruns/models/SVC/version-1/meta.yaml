@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1698581930525
+current_stage: Production
+description: null
+last_updated_timestamp: 1698623671229
+name: SVC
+run_id: 1aa81852a74a46f2967f5a1a50a4ce52
+run_link: null
+source: file:///C:/Users/Dhruv/OneDrive/Desktop/Personal_Projects/HeartRateDetection/mlruns/748831139480563453/1aa81852a74a46f2967f5a1a50a4ce52/artifacts/model
+status: READY
+status_message: null
+storage_location: null
+user_id: null
+version: 1

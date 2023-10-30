@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dhruv/OneDrive/Desktop/Personal_Projects/HeartRateDetection/mlruns/701029327987787158/b1483967e0fe421d8466d5b4a85b7475/artifacts
+end_time: 1698441075598
+entry_point_name: ''
+experiment_id: '701029327987787158'
+lifecycle_stage: active
+run_id: b1483967e0fe421d8466d5b4a85b7475
+run_name: caring-wolf-552
+run_uuid: b1483967e0fe421d8466d5b4a85b7475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698441065815
+status: 3
+tags: []
+user_id: Dhruv

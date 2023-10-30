@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dhruv/OneDrive/Desktop/Personal_Projects/HeartRateDetection/mlruns/846043527650480208/64c2caa364314ae7a8f8234f7b4a01e6/artifacts
+end_time: 1698582044202
+entry_point_name: ''
+experiment_id: '846043527650480208'
+lifecycle_stage: active
+run_id: 64c2caa364314ae7a8f8234f7b4a01e6
+run_name: clumsy-snail-797
+run_uuid: 64c2caa364314ae7a8f8234f7b4a01e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698582036140
+status: 3
+tags: []
+user_id: Dhruv

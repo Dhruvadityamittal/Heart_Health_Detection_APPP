@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1698441075548
+current_stage: Production
+description: null
+last_updated_timestamp: 1698441378528
+name: RandomForestClassifier
+run_id: b1483967e0fe421d8466d5b4a85b7475
+run_link: null
+source: file:///C:/Users/Dhruv/OneDrive/Desktop/Personal_Projects/HeartRateDetection/mlruns/701029327987787158/b1483967e0fe421d8466d5b4a85b7475/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

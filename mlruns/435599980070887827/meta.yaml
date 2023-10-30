@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Dhruv/OneDrive/Desktop/Personal_Projects/HeartRateDetection/mlruns/435599980070887827
+creation_time: 1698582008079
+experiment_id: '435599980070887827'
+last_update_time: 1698582008079
+lifecycle_stage: active
+name: DecisionTreeClassifier

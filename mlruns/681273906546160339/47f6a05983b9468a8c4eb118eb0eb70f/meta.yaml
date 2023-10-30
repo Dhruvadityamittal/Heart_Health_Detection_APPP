@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dhruv/OneDrive/Desktop/Personal_Projects/HeartRateDetection/mlruns/681273906546160339/47f6a05983b9468a8c4eb118eb0eb70f/artifacts
+end_time: 1698581954276
+entry_point_name: ''
+experiment_id: '681273906546160339'
+lifecycle_stage: active
+run_id: 47f6a05983b9468a8c4eb118eb0eb70f
+run_name: blushing-ram-232
+run_uuid: 47f6a05983b9468a8c4eb118eb0eb70f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698581946294
+status: 3
+tags: []
+user_id: Dhruv

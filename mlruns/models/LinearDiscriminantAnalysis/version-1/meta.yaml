@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1698581973713
+current_stage: Production
+description: null
+last_updated_timestamp: 1698623712870
+name: LinearDiscriminantAnalysis
+run_id: e90491beddff4c0fa44ff911aa1f838a
+run_link: null
+source: file:///C:/Users/Dhruv/OneDrive/Desktop/Personal_Projects/HeartRateDetection/mlruns/174964588174543380/e90491beddff4c0fa44ff911aa1f838a/artifacts/model
+status: READY
+status_message: null
+storage_location: null
+user_id: null
+version: 1

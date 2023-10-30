@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dhruv/OneDrive/Desktop/Personal_Projects/HeartRateDetection/mlruns/435599980070887827/6f6eb0eaba3849f78e94321d7b98bc7e/artifacts
+end_time: 1698582017209
+entry_point_name: ''
+experiment_id: '435599980070887827'
+lifecycle_stage: active
+run_id: 6f6eb0eaba3849f78e94321d7b98bc7e
+run_name: placid-crab-833
+run_uuid: 6f6eb0eaba3849f78e94321d7b98bc7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698582008548
+status: 3
+tags: []
+user_id: Dhruv

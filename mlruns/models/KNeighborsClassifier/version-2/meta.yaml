@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1698582059890
+current_stage: None
+description: null
+last_updated_timestamp: 1698582059890
+name: KNeighborsClassifier
+run_id: d62ce9bee852491c8377a84429cf1041
+run_link: null
+source: file:///C:/Users/Dhruv/OneDrive/Desktop/Personal_Projects/HeartRateDetection/mlruns/846043527650480208/d62ce9bee852491c8377a84429cf1041/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 2

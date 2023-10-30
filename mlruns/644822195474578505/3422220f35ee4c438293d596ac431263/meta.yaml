@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dhruv/OneDrive/Desktop/Personal_Projects/HeartRateDetection/mlruns/644822195474578505/3422220f35ee4c438293d596ac431263/artifacts
+end_time: 1698581992262
+entry_point_name: ''
+experiment_id: '644822195474578505'
+lifecycle_stage: active
+run_id: 3422220f35ee4c438293d596ac431263
+run_name: crawling-goat-18
+run_uuid: 3422220f35ee4c438293d596ac431263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698581984445
+status: 3
+tags: []
+user_id: Dhruv

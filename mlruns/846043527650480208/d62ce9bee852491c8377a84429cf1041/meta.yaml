@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dhruv/OneDrive/Desktop/Personal_Projects/HeartRateDetection/mlruns/846043527650480208/d62ce9bee852491c8377a84429cf1041/artifacts
+end_time: 1698582059939
+entry_point_name: ''
+experiment_id: '846043527650480208'
+lifecycle_stage: active
+run_id: d62ce9bee852491c8377a84429cf1041
+run_name: magnificent-kite-72
+run_uuid: d62ce9bee852491c8377a84429cf1041
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698582051786
+status: 3
+tags: []
+user_id: Dhruv

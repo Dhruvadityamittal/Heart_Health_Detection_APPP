@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dhruv/OneDrive/Desktop/Personal_Projects/HeartRateDetection/mlruns/701029327987787158/fda3bdc0e10547dcb34bff7ed45f7eb2/artifacts
+end_time: 1698581908331
+entry_point_name: ''
+experiment_id: '701029327987787158'
+lifecycle_stage: active
+run_id: fda3bdc0e10547dcb34bff7ed45f7eb2
+run_name: honorable-swan-300
+run_uuid: fda3bdc0e10547dcb34bff7ed45f7eb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698581899790
+status: 3
+tags: []
+user_id: Dhruv

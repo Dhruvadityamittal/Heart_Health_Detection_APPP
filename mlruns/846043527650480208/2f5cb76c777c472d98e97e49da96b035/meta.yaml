@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dhruv/OneDrive/Desktop/Personal_Projects/HeartRateDetection/mlruns/846043527650480208/2f5cb76c777c472d98e97e49da96b035/artifacts
+end_time: 1698582240871
+entry_point_name: ''
+experiment_id: '846043527650480208'
+lifecycle_stage: active
+run_id: 2f5cb76c777c472d98e97e49da96b035
+run_name: delightful-tern-784
+run_uuid: 2f5cb76c777c472d98e97e49da96b035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698582231715
+status: 3
+tags: []
+user_id: Dhruv

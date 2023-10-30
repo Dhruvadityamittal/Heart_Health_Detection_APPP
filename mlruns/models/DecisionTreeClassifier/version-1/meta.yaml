@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1698582017159
+current_stage: Production
+description: null
+last_updated_timestamp: 1698623737094
+name: DecisionTreeClassifier
+run_id: 6f6eb0eaba3849f78e94321d7b98bc7e
+run_link: null
+source: file:///C:/Users/Dhruv/OneDrive/Desktop/Personal_Projects/HeartRateDetection/mlruns/435599980070887827/6f6eb0eaba3849f78e94321d7b98bc7e/artifacts/model
+status: READY
+status_message: null
+storage_location: null
+user_id: null
+version: 1

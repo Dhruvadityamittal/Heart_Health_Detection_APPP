@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dhruv/OneDrive/Desktop/Personal_Projects/HeartRateDetection/mlruns/174964588174543380/e90491beddff4c0fa44ff911aa1f838a/artifacts
+end_time: 1698581973764
+entry_point_name: ''
+experiment_id: '174964588174543380'
+lifecycle_stage: active
+run_id: e90491beddff4c0fa44ff911aa1f838a
+run_name: skillful-wren-830
+run_uuid: e90491beddff4c0fa44ff911aa1f838a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698581965694
+status: 3
+tags: []
+user_id: Dhruv
