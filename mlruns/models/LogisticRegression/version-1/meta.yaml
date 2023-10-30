@@ -6,7 +6,7 @@ last_updated_timestamp: 1698623693277
 name: LogisticRegression
 run_id: 47f6a05983b9468a8c4eb118eb0eb70f
 run_link: null
-source: file:///C:/Users/Dhruv/OneDrive/Desktop/Personal_Projects/HeartRateDetection/mlruns/681273906546160339/47f6a05983b9468a8c4eb118eb0eb70f/artifacts/model
+source: file:mlruns/681273906546160339/47f6a05983b9468a8c4eb118eb0eb70f/artifacts/model
 status: READY
 status_message: null
 storage_location: null

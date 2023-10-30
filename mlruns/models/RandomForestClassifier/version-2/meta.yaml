@@ -6,7 +6,7 @@ last_updated_timestamp: 1698441741575
 name: RandomForestClassifier
 run_id: f04e4bb9445e422e848fddb9c14be530
 run_link: null
-source: file:///C:/Users/Dhruv/OneDrive/Desktop/Personal_Projects/HeartRateDetection/mlruns/701029327987787158/f04e4bb9445e422e848fddb9c14be530/artifacts/model
+source: file:mlruns/701029327987787158/f04e4bb9445e422e848fddb9c14be530/artifacts/model
 status: READY
 status_message: null
 user_id: null

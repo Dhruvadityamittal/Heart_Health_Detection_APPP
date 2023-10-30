@@ -6,7 +6,7 @@ last_updated_timestamp: 1698623776679
 name: KNeighborsClassifier
 run_id: 64c2caa364314ae7a8f8234f7b4a01e6
 run_link: null
-source: file:///C:/Users/Dhruv/OneDrive/Desktop/Personal_Projects/HeartRateDetection/mlruns/846043527650480208/64c2caa364314ae7a8f8234f7b4a01e6/artifacts/model
+source: file:mlruns/846043527650480208/64c2caa364314ae7a8f8234f7b4a01e6/artifacts/model
 status: READY
 status_message: null
 storage_location: null

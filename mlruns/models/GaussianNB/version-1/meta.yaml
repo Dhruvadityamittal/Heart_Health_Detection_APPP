@@ -6,7 +6,7 @@ last_updated_timestamp: 1698623725244
 name: GaussianNB
 run_id: 3422220f35ee4c438293d596ac431263
 run_link: null
-source: file:///C:/Users/Dhruv/OneDrive/Desktop/Personal_Projects/HeartRateDetection/mlruns/644822195474578505/3422220f35ee4c438293d596ac431263/artifacts/model
+source: file:mlruns/644822195474578505/3422220f35ee4c438293d596ac431263/artifacts/model
 status: READY
 status_message: null
 storage_location: null

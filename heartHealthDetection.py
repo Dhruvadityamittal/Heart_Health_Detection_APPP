@@ -62,9 +62,9 @@ if (__name__ == "__main__"):
         pyfunc_model = mlflow.sklearn.load_model(f"models:/{model_name}/Production")
 
 
-        prediction = pyfunc_model.predict([[age,sex,chest_pain_type,resting_bp,colestrol,fasting_bs,
+        prediction = pyfunc_model.predict(np.array([[age,sex,chest_pain_type,resting_bp,colestrol,fasting_bs,
                                 resting_ecg_type,max_hr,exercise_Angina_type,
-                                old_peak]])
+                                old_peak]]))
         print(prediction)
         if(prediction[0]==1):
             st.write(f'<p style="color: Red; font-size: 150%">Heart Disease Detected!  \
