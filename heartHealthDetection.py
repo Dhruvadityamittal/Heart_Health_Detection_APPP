@@ -33,10 +33,6 @@ if (__name__ == "__main__"):
         ["SVC", "RandomForestClassifier","LogisticRegression", "LinearDiscriminantAnalysis",
               "GaussianNB","DecisionTreeClassifier","KNeighborsClassifier"])
 
-    def convert(x):
-        print(x)
-        print("hello")
-        return "1"
     
     sex_map = {"Male":1, "Female":2}
     chest_pain_map = {'ATA':0, 'NAP':1, 'ASY' : 2, "TA":3 }
@@ -51,7 +47,7 @@ if (__name__ == "__main__"):
     chest_pain_type = chest_pain_map[st.selectbox("Select Chest Pain Type", ["ATA","NAP","ASY","TA"])]
     resting_bp = st.number_input("Resting BP")
     colestrol = st.number_input("Colestrol")
-    fasting_bs = st.selectbox("Fasting BS", ["0","1"])
+    fasting_bs = st.selectbox("Fasting BS", [0,1])
     resting_ecg_type = resting_ecg_map[st.selectbox("Select ECG Type", ["Normal","ST","LVH"])]
     max_hr = st.number_input("MAX HR")
     exercise_Angina_type = exercise_Angina_map[st.selectbox("Select Exercise Angina Type", ["N","Y"])]
@@ -61,7 +57,10 @@ if (__name__ == "__main__"):
     if (st.button("Predict", type="primary")):
         pyfunc_model = mlflow.sklearn.load_model(f"models:/{model_name}/Production")
 
-
+        print(type(pyfunc_model).__name__)
+        print([age,sex,chest_pain_type,resting_bp,colestrol,fasting_bs,
+                                resting_ecg_type,max_hr,exercise_Angina_type,
+                                old_peak])
         prediction = pyfunc_model.predict(np.array([[age,sex,chest_pain_type,resting_bp,colestrol,fasting_bs,
                                 resting_ecg_type,max_hr,exercise_Angina_type,
                                 old_peak]]))
